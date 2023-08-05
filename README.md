@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I am currently working as a Full-Stack Developer<br>🌱 I am currently learning mobile development technologies like flutter<br>💬 You can contact me at furkankasim@pm.me
+# Hi 👋, I'm Furkan,
+🔭 I am currently working as a Full-Stack Developer<br>🌱 I am currently learning Flutter<br>💬 You can contact me at furkankasim@pm.me
 
 
 ## 🌐 Socials:
